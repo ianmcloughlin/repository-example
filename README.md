@@ -3,7 +3,7 @@
 This repository is just an example.
 Please examine it at your leisure.
 
-![A picture of Fisher.](http://www.swlearning.com/quant/kohler/stat/biographical_sketches/Fisher_3.jpeg)
+![A picture of Fisher.](fisher.jpeg)
 
 
 ## Purpose
