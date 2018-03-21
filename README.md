@@ -3,6 +3,9 @@
 This repository is just an example.
 Please examine it at your leisure.
 
+![A picture of Fisher.](http://www.swlearning.com/quant/kohler/stat/biographical_sketches/Fisher_3.jpeg)
+
+
 ## Purpose
 
 The purpose of this repository is to provide an example repository for students.
